@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+images
+algorithms
+prepared_data
+tables
+.gitignore~
+raw_data/*.xlsx
