@@ -44,4 +44,4 @@ exactly in the following sequence:
 
 
 ## Documentation
-Project [report]() and corresponding [presentation]() are available in the `docs` subdirectory of the repository root.
+Project [report](https://github.com/smith-nekrald/car-credit-loans/blob/master/docs/report.pdf) and corresponding [presentation](https://github.com/smith-nekrald/car-credit-loans/blob/master/docs/presentation.pdf) are available in the `docs` subdirectory of the repository root.
