@@ -3,9 +3,9 @@
 This project addresses the problem of issuing a credit loan for the purpose of purchasing a car. 
 The dataset was openly presented on a competition the author has opportunity to participate at 
 by one of the Belarusian banks (more precisely, BNB-bank, or Belaruski Narodny Bank). This bank 
-is specialized on medium-small business operations, industrial and personal loans, and is considered 
+was specialized on medium-small business operations, industrial and personal loans, and was considered 
 one of the most persistent links between the Republics of Belarus and Georgia. The main personal 
-credit directions of BNB bank are car loans (9 credit lines) and mortgages (4 credit lines).
+credit directions of BNB bank were car loans (9 credit lines) and mortgages (4 credit lines).
 
 The competition was called Imaguru Datathon 2019, and was held in Minsk, Belarus
 by Imaguru Startup Hub. After the dataset is revealed, the teams have 3 days to
@@ -19,7 +19,7 @@ industrial experience.
 The goal is to understand the client behavior and repayment policies based on their
 internal features. Although credit scoring is working, clients behave differently. The natural
 question is then how to use this variability in client behavior to make the bank better?
-Note that financial atmosphere and economic ecology are very risky in Belarus, which adds
+Note that financial atmosphere and economic ecology were very risky in Belarus, which adds
 additional challenges to the problem.
 
 
