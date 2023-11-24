@@ -1,0 +1,7 @@
+jupyter nbconvert --execute --to notebook --inplace "1. initial-study.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "2. data-engineering.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "3. fit-clustering.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "4. regress-next-month.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "5. fill-nas-in-series.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "6. predict-clustering.ipynb"
+jupyter nbconvert --execute --to notebook --inplace "7. client-reliability.ipynb"
